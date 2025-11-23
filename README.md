@@ -1,5 +1,7 @@
 # Pro LifeOS | 完美生活系统
 
+![Pro LifeOS Preview](Prolifeos.png)
+
 Pro LifeOS 是一个基于浏览器的个人生活管理系统，集成了日程管理、习惯追踪、长期目标规划和每日看板等功能。所有数据均存储在您的本地浏览器中，安全且私密。
 
 ## 🚀 快速开始
